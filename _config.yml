@@ -85,10 +85,10 @@ author:
   bio              : "Behavioral neuroscience PhD candidate at UNM studying spatial nav & memory."
   location         : "New Mexico"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=ryan+harvey"
+  googlescholar    : "https://scholar.google.com/citations?user=3aAH9kEAAAAJ&hl=en&oi=sra"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.google.com/url?q=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FRyan_Harvey2&sa=D&sntz=1&usg=AFQjCNFyIq_FltMpy8vHkuUfyRV1lZNzMg"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-4622-4494"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "ryaneharvey"
   vine             :
   weibo            :
   xing             :
