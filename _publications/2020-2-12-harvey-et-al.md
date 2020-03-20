@@ -12,4 +12,4 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Harvey R.E., Berkowitz, L.E., Savage, D.D., Hamilton, D.A., Clark, B.J. (2020). &quot;Altered hippocampal place cell representation and theta rhythmicity following moderate prenatal alcohol exposure.&quot; <i>BioRxiv 1</i>.
+Recommended citation: Harvey R.E., Berkowitz, L.E., Savage, D.D., Hamilton, D.A., Clark, B.J. (2020). &quot;Altered hippocampal place cell representation and theta rhythmicity following moderate prenatal alcohol exposure.&quot; <i>BioRxiv</i>.
