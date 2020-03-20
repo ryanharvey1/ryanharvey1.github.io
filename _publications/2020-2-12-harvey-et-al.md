@@ -2,7 +2,7 @@
 title: "Altered hippocampal place cell representation and theta rhythmicity following moderate prenatal alcohol exposure"
 collection: publications
 permalink: /publication/2020-2-12-harvey-et-al
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ' '
 date: 2020-2-12
 venue: 'BioRxiv'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
