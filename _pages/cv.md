@@ -50,10 +50,15 @@ Research assistant, Purdue University, Mentor Dr. Ryan M. Yoder
 Skills
 ======
 * Animal Behavior
-  * Rat handling and training on a range of spatial navigation and memory tasks, behavioral scoring, design of novel behavioral tasks to investigate the function of spatial systems
+  * Rat handling and training on a range of spatial navigation and memory tasks
+  * Behavioral scoring
+  * Design of novel behavioral tasks to investigate the function of spatial systems
 
 * In vivo Electrophysiology
-  * Micro-drive / hyper-drive custom construction for targeting of multiple brain regions simultaneously, surgical micro-drive implantation, single unit recordings in awake behaving rats (Neuralynx, Open Ephys), spike sorting (Kilosort, Phy, Mclust, Spike sort 3D)
+  * Micro-drive / hyper-drive custom construction for targeting of multiple brain regions simultaneously
+  * Surgical micro-drive implantation
+  * Single unit recordings in awake behaving rats (Neuralynx, Open Ephys)
+  * Spike sorting (Kilosort, Phy, Mclust, Spike sort 3D)
 
 * In vivo drug infusion
   * Construction and use of custom infusion device for drug delivery to multiple brain regions. 
