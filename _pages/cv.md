@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+See [here](https://ryanharvey1.github.io/markdown-cv/) for full CV
+
 Education
 ======
 * Ph.D., Psychology, University of New Mexico, 2021 (expected)
