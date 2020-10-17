@@ -9,5 +9,8 @@ redirect_from:
 ---
 
 
+I am a doctoral candidate in the University of New Mexico's psychology department.
 
-My overall aim is to contribute to our understanding of circuit-level dynamics that give rise to spatial navigation and memory. Currently, my work involves understanding functional loss after developmental alcohol exposure using high-density electrophysiology recordings in behaving rodents.
+My doctoral research with Benjamin Clark is focused on how hippocampal activity is altered following prenatal alcohol exposure. 
+
+More broadly, my aim is to contribute to our understanding of circuit-level dynamics that give rise to spatial navigation and memory. 
