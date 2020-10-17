@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 
-I am a doctoral candidate in the University of New Mexico's psychology department.
+I am a doctoral candidate at the University of New Mexico in the department of psychology.
 
-My doctoral research with Benjamin Clark is focused on how hippocampal activity is altered following prenatal alcohol exposure. 
+My doctoral research with Benjamin J. Clark is focused on how hippocampal activity, and associated spatial memory, is altered following prenatal alcohol exposure. 
 
-More broadly, my aim is to contribute to our understanding of circuit-level dynamics that give rise to spatial navigation and memory. 
+Broadly, my aim is to contribute to our understanding of circuit-level dynamics that give rise to spatial navigation and memory. 
