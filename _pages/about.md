@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Currently, I am a doctoral candidate in the lab of Benjamin Clark at the University of New Mexico and expect to graduate in May 2021.
+Currently, I am a doctoral candidate in the lab of Benjamin Clark at the University of New Mexico and expect to graduate in May 2021. I'm searching for a postdoctoral position that will start in 2021.  
 
 My main interest is in exploring circuit-level dynamics that relate to behavior & memory and how these dynamics are altered in neurodevelopment disorders.
 
