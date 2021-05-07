@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I recently finish my Phd in the lab of Benjamin Clark at the University of New Mexico.  
+I recently finish my PhD in the lab of Benjamin Clark at the University of New Mexico.  
 
 My main interest is in exploring circuit-level dynamics that relate to behavior & memory and how these dynamics are altered in neurodevelopment disorders.
 
