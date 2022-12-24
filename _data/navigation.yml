@@ -16,7 +16,7 @@ main:
    # url: /year-archive/
     
   - title: "CV"
-    url: https://github.com/ryanharvey1/CV/blob/main/harvey_cv.pdf
+    url: https://github.com/ryanharvey1/CV/raw/main/harvey_cv.pdf
     
   #- title: "Guide"
    # url: /markdown/
