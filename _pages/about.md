@@ -36,7 +36,7 @@ Now in the **Fernandez-Ruiz & Oliva Lab**, I’m investigating the **diversity o
 ✅ **High-density silicon probe recordings**  
 ✅ **Advanced analytical tools**  
 
-This work aims to unravel how **hippocampal ripples coordinate memory reactivation**, and how we can precisely manipulate them ([Harvey et al., 2023](https://doi.org/10.1016/j.neuron.2023.04.015); [Soula et al., 2023](https://doi.org/10.1073/pnas.2302676120); [Karaba et al., 2024](https://www.science.org/doi/10.1126/science.ado5708)).  
+This work aims to unravel how **hippocampal ripples coordinate memory reactivation**, and how we can precisely manipulate them ([Harvey et al., 2023](https://doi.org/10.1016/j.neuron.2023.04.015); [Soula et al., 2023](https://doi.org/10.1073/pnas.2302676120); [Karaba et al., 2024](https://www.science.org/doi/10.1126/science.ado5708); [Tang et al., 2025](https://doi.org/10.1101/2025.08.26.672489)).  
 
 ---
 
